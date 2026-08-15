@@ -7548,9 +7548,9 @@ _.a=b
 _.b=$
 _.c=c
 _.d=!1},
-aLW(){var s,r,q,p,o,n,m,l=null,k="application/json",j=t.N,i=new A.ab2("http://zaidswaileh.pythonanywhere.com",A.aq(["Content-Type",k,"Accept",k,"User-Agent","MyApp/1.0"],j,j))
-j=t.OR
-j=A.aEd(B.a_n,A.d([A.Wj(new A.amN(i),j),A.Wj(new A.amO(i),j),A.Wj(new A.amP(),t.oy),A.Wj(new A.amQ(),t.C0)],t.Ds))
+aLW(){var s,r,q,p,o,n,m,l=null,k=t.N,j=new A.ab2("http://zaidswaileh.pythonanywhere.com",A.aq(["Content-Type","application/json","Accept","*/*","user-agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36","referer","https://zaidswaileh.pythonanywhere.com/"],k,k))
+k=t.OR
+k=A.aEd(B.a_n,A.d([A.Wj(new A.amN(j),k),A.Wj(new A.amO(j),k),A.Wj(new A.amP(),t.oy),A.Wj(new A.amQ(),t.C0)],t.Ds))
 if($.Y==null)A.avb()
 s=$.Y
 s.toString
@@ -7568,7 +7568,7 @@ m.aJ()
 m.Jw(l,l,r)
 s.CW$!==$&&A.aC()
 s.CW$=m
-n=m}s.VT(new A.tF(p,j,o,n,l))
+n=m}s.VT(new A.tF(p,k,o,n,l))
 s.I5()},
 amN:function amN(a){this.a=a},
 amO:function amO(a){this.a=a},
