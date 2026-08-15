@@ -7548,7 +7548,7 @@ _.a=b
 _.b=$
 _.c=c
 _.d=!1},
-aLW(){var s,r,q,p,o,n,m,l=null,k=t.N,j=new A.ab2("http://zaidswaileh.pythonanywhere.com",A.aq(["Content-Type","application/json","Accept","*/*","user-agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36","referer","https://zaidswaileh.pythonanywhere.com/"],k,k))
+aLW(){var s,r,q,p,o,n,m,l=null,k=t.N,j=new A.ab2("https://zaidswaileh.pythonanywhere.com",A.aq(["Content-Type","application/json","Accept","*/*","user-agent","Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36","referer","https://zaidswaileh.pythonanywhere.com/"],k,k))
 k=t.OR
 k=A.aEd(B.a_n,A.d([A.Wj(new A.amN(j),k),A.Wj(new A.amO(j),k),A.Wj(new A.amP(),t.oy),A.Wj(new A.amQ(),t.C0)],t.Ds))
 if($.Y==null)A.avb()
